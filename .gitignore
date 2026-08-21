@@ -1,0 +1,25 @@
+# 编译产物
+*.o
+*.out
+Makefile
+StudentSystem
+StudentSystem.exe
+moc_*.cpp
+moc_predefs.h
+.qmake.stash
+student_ss
+student_ss.exe
+
+# 环境变量
+.env
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Python 缓存
+__pycache__/
+*.pyc
